@@ -4,7 +4,7 @@
     "href": "course/02_FilePaths/index.html",
     "title": "02 - File Paths",
     "section": "",
-    "text": "For the YouTube livestream schedule, see here\nFor screen-shot slides, click here\nWelcome to the second week of Cytometry in R! This week we will learn about file.path, namely, how to communicate to our computer (and R) where various files are stored.",
+    "text": "For the YouTube livestream recording, see here\nFor screen-shot slides, click here\nWelcome to the second week of Cytometry in R! This week we will learn about file.path, namely, how to communicate to our computer (and R) where various files are stored.",
     "crumbs": [
       "About",
       "Intro to R",
